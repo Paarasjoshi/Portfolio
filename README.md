@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website - v2.0<br/>
-  <a href="https://parasjoshi.vercel.app/" target="_blank">sparasjoshi.com</a>
+  <a href="https://parasjoshi.vercel.app/" target="_blank">parasjoshi.com</a>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
